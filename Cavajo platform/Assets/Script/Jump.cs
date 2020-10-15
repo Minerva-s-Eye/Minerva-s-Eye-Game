@@ -18,7 +18,7 @@ public class Jump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space) && Ij == false) {
+        if ((Input.GetKey(KeyCode.Space)|| Input.touchCount>0&&Input.GetTouch(0).phase==TouchPhase.Began) && Ij == false) {
 
             GetComponent<Rigidbody2D>().velocity = new Vector3(0, 6, 0);
 

@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 3e89420e9e4d1e94395ba7b1da973911
+  - enabled: 1
+    path: Assets/Scenes/ErLogin.unity
+    guid: c7a992705b4dd034592c65a59bb72215
+  - enabled: 1
+    path: Assets/Scenes/dialogo 2.unity
+    guid: 13ef0f6d326b8d743ba496fcd7a8818a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 83246e7654c8e6744badbf4d08e4a3a1
+  - enabled: 1
+    path: Assets/Scenes/scelta 1.unity
+    guid: ef724bfa57fdb1549b6a998751972f22
+  - enabled: 1
+    path: Assets/Scenes/Bianca/fabbro 1.unity
+    guid: cfacf899f9c1bf34287bebbdbcf2b8f2
+  - enabled: 1
+    path: Assets/Scenes/Bianca/bbutton.unity
+    guid: e21b65cad1056f445bec25b88d423fde
+  - enabled: 1
+    path: Assets/Scenes/fabbro/fabbro.unity
+    guid: e3fd4f9e78b597f41981ffc0542e634e
+  - enabled: 1
+    path: Assets/Scenes/dialogo 1.unity
+    guid: cea58f08e1ee01d4db5ea107078328ae
+  - enabled: 1
+    path: Assets/Scenes/dialogo.unity
+    guid: fc0c3710792727143a9d6c8e097a1b4e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 2.unity
+    guid: bb240b6f8569211419ea0282475b2aa8
+  - enabled: 1
+    path: Assets/Scenes/cartello/cartellob.unity
+    guid: 581a265c1cf8040429b09d317c991808
+  - enabled: 1
+    path: Assets/Scenes/cartello/cartellooo.unity
+    guid: 00efb3ebd9e73c348ba4112dd8298a2f
+  - enabled: 1
+    path: Assets/Scenes/cartello/nero.unity
+    guid: 12c7c29780389ab439732bf2c6d720ec
+  - enabled: 1
+    path: Assets/Scenes/Bianca/fabbro 2.unity
+    guid: f3c7002e4ebbfae4595807ca8fdc019f
+  - enabled: 1
+    path: Assets/Scenes/cabajo/Unity project.unity
+    guid: 09c77cfcbba6d194f885eae9a47b5953
+  - enabled: 1
+    path: Assets/Scenes/cabajo/ded 1.unity
+    guid: cc9ea83c5a6381c429abd6862b7fe8ef
+  - enabled: 1
+    path: Assets/Scenes/clayton/nero 1.unity
+    guid: c40d50ac3ac176143a0516bd2b4a6af4
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/postcult.unity
+    guid: ff704a7e0291378418487de83a530625
+  - enabled: 1
+    path: Assets/Scenes/clayton/clayton.unity
+    guid: fe4758b82dc13a248beb2eac59933734
+  - enabled: 1
+    path: Assets/Scenes/cultisti/bbutton 1.unity
+    guid: fafda26c65e32874ba0ff9e5b3a3891d
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/Cultisti.unity
+    guid: 6444c1973a1f2f74ea8e6d28761967cf
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/ded 11.unity
+    guid: e2811d5f17034234bb6a76eb0ec1fa5a
+  - enabled: 1
+    path: Assets/Scenes/cultisti/cultist.unity
+    guid: 7011c182202545844ac49b4d8902b533
+  - enabled: 1
+    path: Assets/Scenes/basilica/pboss.unity
+    guid: 0d8cb01a3db66c14f9616dede83e3f11
+  - enabled: 1
+    path: Assets/Scenes/basilica/tboss.unity
+    guid: 545a2d489ee3b824f9e0ac4cf37a2a38
+  - enabled: 1
+    path: Assets/Scenes/bosso/SampleSceneee.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/fine/ded 3.unity
+    guid: 5bb20fa038852154dab099c7ea502c32
+  - enabled: 1
+    path: Assets/Scenes/bosso/ded 2.unity
+    guid: 69f0cb3c6a675b840b507734da5da268
+  - enabled: 1
+    path: Assets/Scenes/lupo/Lupo.unity
+    guid: 6a497c104e8bb5a4ebbc7f633aa78181
+  - enabled: 1
+    path: Assets/Scenes/lupo/ded 0.unity
+    guid: dde4f150e6c7b8f4782caa181edbf1c4
+  - enabled: 1
+    path: Assets/Scenes/lupo/morte.unity
+    guid: f18ff71745c998e4e98871e37f8b98a8
+  - enabled: 1
+    path: Assets/Scenes/jumpo/ded 4.unity
+    guid: aff5e00f1117ce041a2be93fd0f141a6
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/bbutton 2.unity
+    guid: a8775f76459109c44aac2aab3a9ab1f9
+  - enabled: 1
+    path: Assets/Scenes/jumpo/SampleScene.unity
+    guid: 595292f95133cbd4ab7b7f5b886aeffe
+  - enabled: 1
+    path: Assets/Scenes/cartello/sud/cartellooo 1.unity
+    guid: 65e769376a23da34db0c3f7e70e14d1c
+  - enabled: 1
+    path: Assets/Scenes/cartello/sud/dialogo 3.unity
+    guid: eea4ebfc25454fd49bb212f726a7cfae
+  - enabled: 1
+    path: Assets/Scenes/cartello/sud/nerooo.unity
+    guid: fd660d5b52e4e9f4d87cd6b2eaca1b42
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: a906ce6caa9513d4eab94cdcc2938f32
+  - enabled: 1
+    path: Assets/Scenes/cartello/sud/deds.unity
+    guid: 7819dfce92fe0f046a0cde369b44bc97
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/sac/sac.unity
+    guid: 4c0ef793eab2f5c408d0409fafb339ba
+  - enabled: 1
+    path: Assets/Scenes/cultisti/Asc/fabbroasc.unity
+    guid: 20431591764efa54eb534ace373cd6b0
+  - enabled: 1
+    path: Assets/Scenes/cultisti/Asc/neroooo.unity
+    guid: 9fb8ac817b0adbb45a385a2221af8d0a
+  - enabled: 1
+    path: Assets/Scenes/cultisti/Asc/asc.unity
+    guid: c2113eb5919c1334e94273288c1be6a6
+  - enabled: 1
+    path: Assets/Scenes/Menu/crediti.unity
+    guid: f4b84e986d9a8ec4c8b3bff5a0aeff50
+  - enabled: 1
+    path: Assets/Scenes/lupo/ded 01.unity
+    guid: cd0d494cfb265794483e15961b855cd9
+  - enabled: 1
+    path: Assets/Scenes/login/ErLogin 3.unity
+    guid: 0dc506f1e13005d4790804408ebdf134
+  - enabled: 1
+    path: Assets/Scenes/login/ErLogin 4.unity
+    guid: 91bb89cbb3bef8146b5fc2b8502483df
+  - enabled: 1
+    path: Assets/Scenes/jumpo/Minigioco_jump.unity
+    guid: f55a267390efbcf47adc8bd7022eb810
+  - enabled: 1
+    path: Assets/Scenes/minicultisti/Minigioco_cultisti.unity
+    guid: 02d4a64917721c94d8a12dde4c2c5952
+  - enabled: 1
+    path: Assets/Scenes/lupo/Minigioco_lupo.unity
+    guid: 4ac4bc6f52b3b0c4da3d2c7004468018
+  - enabled: 1
+    path: Assets/Scenes/login/ErLogin 1.unity
+    guid: 833ea37599f55864288a9c4836e6beab
+  - enabled: 1
+    path: Assets/Scenes/login/ErLogin 2.unity
+    guid: 6fb5c19bdf029af45905ad254b864dcb
+  - enabled: 1
+    path: Assets/Scenes/cabajo/Minigioco_cavallo.unity
+    guid: 3d947c601184aee44b2f8dc4ffc16f54
+  m_configObjects: {}

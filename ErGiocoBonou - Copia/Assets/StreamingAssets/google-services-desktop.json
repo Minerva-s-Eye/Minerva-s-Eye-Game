@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108100275591",
+    "firebase_url": "https://minerva14febb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "minerva14febb",
+    "storage_bucket": "minerva14febb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108100275591:android:32954db6522d30d23f9722",
+        "android_client_info": {
+          "package_name": "com.roma3Boys.MinervasEye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108100275591-7el0o77qpcsnt8a8v6astur38su7860s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4ZiBj6SZHuvhwwtdud1nwsTOfr-9yoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108100275591-7el0o77qpcsnt8a8v6astur38su7860s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108100275591-q2vrig5gqdi89bjrhr592sijdcj41i7f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roma3Boys.MinervasEye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

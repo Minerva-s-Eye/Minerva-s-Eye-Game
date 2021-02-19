@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://minerva14febb-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">108100275591</string>
+  <string name="google_storage_bucket" translatable="false">minerva14febb.appspot.com</string>
+  <string name="project_id" translatable="false">minerva14febb</string>
+  <string name="google_api_key" translatable="false">AIzaSyCz4ZiBj6SZHuvhwwtdud1nwsTOfr-9yoc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCz4ZiBj6SZHuvhwwtdud1nwsTOfr-9yoc</string>
+  <string name="google_app_id" translatable="false">1:108100275591:android:32954db6522d30d23f9722</string>
+  <string name="default_web_client_id" translatable="false">108100275591-7el0o77qpcsnt8a8v6astur38su7860s.apps.googleusercontent.com</string>
+</resources>
